@@ -1,0 +1,84 @@
+
+    Initiate the webcam feed
+
+> ID@webcam feed 
+
+Shortcut
+
+> ID@wf 
+
+Can be ended via
+
+esc
+
+
+
+    Initiate the audio feed
+
+> ID@mic feed 
+
+Shortcut
+
+> ID@mf
+
+Can be ended via
+
+esc
+
+
+
+    Clear the CLI
+
+> clear
+
+
+
+    Display connected devices & their ID, IPv4, location
+
+> show clients
+
+Shortcut
+
+> sc
+
+
+
+    Send bash command
+
+> ID@command
+
+
+
+    Get current IPv4
+
+> get_ip
+
+
+
+    Print text to the Command Line
+
+> echo ...
+
+
+
+    Take Screenshot of the victim's screen
+
+> ID@take screenshot
+
+
+
+    Take Snapshot of the victim's webcam
+
+> ID@take snapshot 
+
+
+
+    Show popup message on victim's machine
+
+> ID@popup 'window title' 'message' 
+
+
+
+    Close the CLI
+
+> exit

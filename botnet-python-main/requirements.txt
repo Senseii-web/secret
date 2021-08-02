@@ -1,0 +1,6 @@
+requests
+pyqt5
+pynput
+opencv-python
+pyaudio
+numpy
